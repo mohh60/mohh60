@@ -4,7 +4,7 @@ Bonjour ! Je suis mohh60, un homme parmi les Humains, je suis passionné par �
 
 ## Compétences 🛠️
 - JS et les bibliothèques associées (Node.js, TypeScript, etc..) 🔧
-- HTML / CSS (JS même pas si c'est une compétence sérieux 😭) 📚
+- HTML / CSS (Je sais même pas si c'est une compétence sérieux 😭) 📚
 - Apprentissage de Lua & C# 💡
 ## Projets récents 🌟
 Voici quelques-uns des projets sur lesquels je travaille actuellement ou sur lesquels j'ai récemment contribué :
