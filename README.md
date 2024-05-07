@@ -10,7 +10,7 @@ Bonjour ! Je suis mohh60, un homme parmi les Humains, je suis passionné par �
 Voici quelques-uns des projets sur lesquels je travaille actuellement ou sur lesquels j'ai récemment contribué :
 
 1. NeXyss - Version principale de mon bot Discord multi-guild transformé suite à une fusion.
-2. NeX' - La continuation de NeX, actuellement en baisse suite à un petit manque de motivation.
+2. NeX' - La continuation de NeXyss.
 3. Différents bots personnels/sites web - j'aide des petits serveurs et petites structures à se développer.
 ## Contributions 👥
 Je suis actif PAS sur GitHub mais je me penche plus sur le sujet ! Promis (enfin peut-être) 😉
