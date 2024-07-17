@@ -7,7 +7,7 @@ Bonjour ! Je suis **mohh60**, un passionné de technologie et de programmation. 
 - **JavaScript** et ses bibliothèques associées (Node.js, TypeScript, etc.) 🔧
 - **HTML / CSS** (c'est bien une compétence, ne vous inquiétez pas !) 📚
 - **Lua** & **C#** (en cours d'apprentissage) 💡
-  [![Les Stats GitHub de Mohh.60](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=shadow_red&show_icons=true))](https://github.com/anuraghazra/github-readme-stats)
+  [![Les Stats GitHub de Mohh.60](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohh.60&theme=shadow_red&show_icons=true)
 
 ## Projets récents 🌟
 Voici quelques-uns des projets sur lesquels je travaille actuellement ou sur lesquels j'ai récemment contribué :
